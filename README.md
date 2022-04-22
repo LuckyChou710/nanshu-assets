@@ -8,31 +8,31 @@
   <img
     height="80"
     width="80"
-    alt="dog"
+    alt=""
     src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon20.png"
   />
   <img
     height="80"
     width="80"
-    alt="dog"
+    alt=""
     src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon23.png"
   />
   <img
     height="80"
     width="80"
-    alt="dog"
+    alt=""
     src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon18.png"
   />
     <img
     height="80"
     width="80"
-    alt="dog"
+    alt=""
     src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon26.png"
   />
     <img
     height="80"
     width="80"
-    alt="dog"
+    alt=""
     src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon11.png"
   />
 </a>
